@@ -1,0 +1,24 @@
+{
+    "plants":[
+        {
+            "plant_name":"Neem",
+            "price":250,
+            "category":"outdoor"
+        },
+        {
+            "plant_name":"Aloe Vera",
+            "price":350,
+            "category":"indoor"
+        },
+        {
+            "plant_name":"Jasmine",
+            "price":100,
+            "category":"indoor"
+        },
+        {
+            "plant_name":"Khuzaima",
+            "price":500,
+            "category":"indoor"
+        }
+    ]
+}
